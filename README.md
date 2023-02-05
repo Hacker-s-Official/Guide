@@ -1,5 +1,5 @@
 # Guide
-This group's Guideline
+Liberluna's guidelines.
 ## Labels
 | Label | Desc |
 | ---- | ---- |
